@@ -3,3 +3,6 @@
 # TOTAL: 2
 DOMAIN-SUFFIX,locketcamera.com
 DOMAIN-SUFFIX,api.locketcamera.com
+DOMAIN-SUFFIX,locket.camera
+DOMAIN-SUFFIX,o1126632.ingest.sentry.io
+DOMAIN-SUFFIX,exp.host
